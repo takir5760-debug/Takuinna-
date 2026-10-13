@@ -1,0 +1,5 @@
+app/src/main/java/com/example/MainActivity.kt
+app/src/main/AndroidManifest.xml
+app/src/main/res/xml/network_security_config.xml
+app/build.gradle.kts
+app/proguard-rules.pro
